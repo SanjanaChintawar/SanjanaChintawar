@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SanjanaChintawar
-- 👀 I’m interested in JAVA, Spring and Web Developement
+- 👀 I’m interested in JAVA, Spring and DevOps
 - 🌱 I’m currently learning Spring Boot
 - 💞️ I’m currently pursuing Btech in AI & DS
 - 📫 How to reach me email - sanjanachntawar007@gmail.com
