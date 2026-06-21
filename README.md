@@ -54,7 +54,7 @@ I'm currently exploring data structures & algorithms, web development, and sharp
 
 > [!IMPORTANT]
 > ### Recruiter / Employer?
-> [Download my resume](#) — *(replace this link with your resume URL)*
+> [Download my resume](https://drive.google.com/file/d/1ZXEsIDY-vduXGlKE93MYU5EZbOwKHolz/view?usp=drive_link)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:0D0D0D&height=120&section=footer"/>
 
