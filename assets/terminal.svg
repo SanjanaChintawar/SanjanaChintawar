@@ -1,0 +1,71 @@
+<svg width="700" height="320" viewBox="0 0 700 320" xmlns="http://www.w3.org/2000/svg" font-family="'SF Mono', 'Fira Code', Consolas, monospace">
+  <defs>
+    <clipPath id="bodyClip">
+      <rect x="0" y="34" width="700" height="286" rx="0" />
+    </clipPath>
+  </defs>
+
+  <!-- window -->
+  <rect x="0" y="0" width="700" height="320" rx="10" fill="#0A0A0A"/>
+
+  <!-- title bar -->
+  <path d="M0,10 a10,10 0 0 1 10,-10 h680 a10,10 0 0 1 10,10 v24 h-700 z" fill="#3B0A0A"/>
+  <circle cx="22" cy="17" r="6" fill="#FF5F56"/>
+  <circle cx="42" cy="17" r="6" fill="#FFBD2E"/>
+  <circle cx="62" cy="17" r="6" fill="#27C93F"/>
+  <text x="350" y="22" fill="#E5B8B8" font-size="12" text-anchor="middle">sanjana@github: ~</text>
+
+  <!-- body -->
+  <g clip-path="url(#bodyClip)" font-size="15">
+
+    <!-- Line 1: whoami -->
+    <text x="18" y="60" fill="#E50914" opacity="0">
+      <tspan>/sanjana $ </tspan><tspan fill="#F0F0F0">whoami</tspan>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.99;1" dur="11s" begin="0s" repeatCount="indefinite"/>
+    </text>
+    <text x="18" y="84" fill="#9A9A9A" opacity="0">
+      &gt; Sanjana Chintawar
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.99;1" dur="11s" begin="1s" repeatCount="indefinite"/>
+    </text>
+
+    <!-- Line 2: cat role.txt -->
+    <text x="18" y="116" fill="#E50914" opacity="0">
+      <tspan>/sanjana $ </tspan><tspan fill="#F0F0F0">cat role.txt</tspan>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.99;1" dur="11s" begin="1.8s" repeatCount="indefinite"/>
+    </text>
+    <text x="18" y="140" fill="#9A9A9A" opacity="0">
+      &gt; Computer Science Student
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.99;1" dur="11s" begin="2.8s" repeatCount="indefinite"/>
+    </text>
+
+    <!-- Line 3: skills list -->
+    <text x="18" y="172" fill="#E50914" opacity="0">
+      <tspan>/sanjana $ </tspan><tspan fill="#F0F0F0">skills --list</tspan>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.99;1" dur="11s" begin="3.6s" repeatCount="indefinite"/>
+    </text>
+    <text x="18" y="196" fill="#9A9A9A" opacity="0">
+      &gt; Python · Java · C/C++ · JavaScript · SQL
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.99;1" dur="11s" begin="4.6s" repeatCount="indefinite"/>
+    </text>
+
+    <!-- Line 4: echo $STATUS -->
+    <text x="18" y="228" fill="#E50914" opacity="0">
+      <tspan>/sanjana $ </tspan><tspan fill="#F0F0F0">echo $STATUS</tspan>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.99;1" dur="11s" begin="5.4s" repeatCount="indefinite"/>
+    </text>
+    <text x="18" y="252" fill="#27C93F" opacity="0">
+      &gt; Learning. Building. Leveling up.
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.99;1" dur="11s" begin="6.4s" repeatCount="indefinite"/>
+    </text>
+
+    <!-- Final prompt with blinking cursor -->
+    <text x="18" y="284" fill="#E50914" opacity="0">
+      <tspan>/sanjana $ </tspan>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.99;1" dur="11s" begin="7.2s" repeatCount="indefinite"/>
+    </text>
+    <rect x="98" y="271" width="9" height="16" fill="#E50914" opacity="0">
+      <animate attributeName="opacity" values="0;1;0;1;0;1;0;1;0" dur="2s" begin="7.2s" repeatCount="indefinite"/>
+    </rect>
+
+  </g>
+</svg>
