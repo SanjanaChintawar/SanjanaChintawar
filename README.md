@@ -12,18 +12,6 @@
 
 <img src="https://raw.githubusercontent.com/SanjanaChintawar/SanjanaChintawar/main/assets/terminal.svg" align="right" width="48%"/>
 
-### 🔴 About Me
-
-```yaml
-name      : Sanjana Chintawar
-location  : Pune, Maharashtra 🇮🇳
-education : B-Tech - VIIT pune
-focus     : DevOps · Cloud · Backend · UI/UX
-currently : AWS · Spring Boot · Docker
-interests : Building scalable systems
-            Designing clean interfaces
-            Open source & collaboration
-```
 
 - Passionate about **Cloud & DevOps** pipelines
 - Backend dev with **Java + Spring Boot**
