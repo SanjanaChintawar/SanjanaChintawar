@@ -46,7 +46,7 @@ I'm currently exploring data structures & algorithms, web development, and sharp
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SanjanaChintawar&show_icons=true&theme=red&hide_border=true&bg_color=0D0D0D&title_color=E50914&icon_color=E50914&text_color=C9C9C9" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SanjanaChintawar&show_icons=true&theme=red&hide_border=true&bg_color=0D0D0D&title_color=E50914&icon_color=E50914&text_color=797979" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SanjanaChintawar&theme=red&hide_border=true&background=0D0D0D&ring=E50914&fire=E50914&currStreakLabel=E50914" height="165"/>
 </div>
 
