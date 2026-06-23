@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E1628,40:8B0000,100:C0392B&height=160&section=header&text=Sanjana%20Chintawar&fontSize=46&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=CS%20Student%20%E2%80%A2%20DevOps%20%E2%80%A2%20Cloud%20Enthusiast%20%E2%80%A2%20UI%2FUX&descAlignY=62&descSize=16&descColor=FFBBBB" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E1628,40:8B0000,100:C0392B&height=160&section=header&text=Sanjana%20Chintawar&fontSize=46&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=DevOps%20%E2%80%A2%20Cloud%20Enthusiast%20%E2%80%A2%20UI%2FUX&descAlignY=62&descSize=16&descColor=FFBBBB" width="100%"/>
 
 <br/>
 
@@ -17,7 +17,7 @@
 ```yaml
 name      : Sanjana Chintawar
 location  : Pune, Maharashtra 🇮🇳
-education : Computer Science Student
+education : B-Tech - VIIT pune
 focus     : DevOps · Cloud · Backend · UI/UX
 currently : AWS · Spring Boot · Docker
 interests : Building scalable systems
@@ -25,10 +25,10 @@ interests : Building scalable systems
             Open source & collaboration
 ```
 
-- 🌩️ Passionate about **Cloud & DevOps** pipelines
-- ☕ Backend dev with **Java + Spring Boot**
-- 🎨 Bridging **engineering and design** with UI/UX
-- 🤝 Open to internships, collabs & open source
+- Passionate about **Cloud & DevOps** pipelines
+- Backend dev with **Java + Spring Boot**
+- Bridging **engineering and design** with UI/UX
+- Open to internships, collabs & open source
 
 <br clear="right"/>
 
