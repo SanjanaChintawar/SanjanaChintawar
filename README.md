@@ -1,62 +1,110 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,100:8B0000&height=120&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E1628,40:8B0000,100:C0392B&height=160&section=header&text=Sanjana%20Chintawar&fontSize=46&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=CS%20Student%20%E2%80%A2%20DevOps%20%E2%80%A2%20Cloud%20Enthusiast%20%E2%80%A2%20UI%2FUX&descAlignY=62&descSize=16&descColor=FFBBBB" width="100%"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=1000&color=E50914&width=435&lines=Hello%2C+I'm+Sanjana+Chintawar;DevOps+Engineer+and+JAVA+Developer" alt="Typing SVG" />
-</a>
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=22&duration=3500&pause=800&color=E8303A&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile!+%F0%9F%91%8B;I+build+things+that+run+in+the+cloud+%E2%98%81%EF%B8%8F;Java+%7C+Spring+%7C+AWS+%7C+DevOps;UI%2FUX+%7C+Design+Meets+Engineering)](https://git.io/typing-svg)
 
 </div>
 
-<br/>
+---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SanjanaChintawar/SanjanaChintawar/main/assets/terminal.svg" alt="About Sanjana Terminal" width="700"/>
-</p>
+<img src="https://raw.githubusercontent.com/SanjanaChintawar/SanjanaChintawar/main/assets/terminal.svg" align="right" width="48%"/>
 
-<br/>
+### 🔴 About Me
 
-### Main skills
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,html,css,git,github,vscode,mysql,linux&theme=dark"/>
-</p>
+```yaml
+name      : Sanjana Chintawar
+location  : Pune, Maharashtra 🇮🇳
+education : Computer Science Student
+focus     : DevOps · Cloud · Backend · UI/UX
+currently : AWS · Spring Boot · Docker
+interests : Building scalable systems
+            Designing clean interfaces
+            Open source & collaboration
+```
 
-### Studying
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=dsa,react,nodejs&theme=dark"/>
-</p>
+- 🌩️ Passionate about **Cloud & DevOps** pipelines
+- ☕ Backend dev with **Java + Spring Boot**
+- 🎨 Bridging **engineering and design** with UI/UX
+- 🤝 Open to internships, collabs & open source
 
-You can find me building small projects and solving problems as I grow as a developer.
-I'm currently exploring data structures & algorithms, web development, and sharpening my fundamentals — one repo at a time.
+<br clear="right"/>
 
-### Connect with me!
+---
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/SanjanaChintawar" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-8B0000?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:youremail@example.com">
-    <img src="https://img.shields.io/badge/Email-8B0000?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/SanjanaChintawar" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-8B0000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+### ⚙️ Tech Stack
 
-<br/>
+**Languages & Backend**
+
+[![My Skills](https://skillicons.dev/icons?i=java,python,c,cpp,js,spring&theme=dark)](https://skillicons.dev)
+
+**Cloud & DevOps**
+
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,bash,git&theme=dark)](https://skillicons.dev)
+
+**Frontend & Design**
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,figma,vscode,react&theme=dark)](https://skillicons.dev)
+
+**Databases & Tools**
+
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,github,gradle,maven&theme=dark)](https://skillicons.dev)
+
+---
+
+### 📈 Currently Exploring
+
+| Area | Topic |
+|------|-------|
+| ☁️ Cloud | AWS Solutions Architect concepts |
+| 🔧 DevOps | CI/CD pipelines · Terraform |
+| 🎨 Design | Design systems · Figma components |
+| 🧠 DSA | Problem solving & competitive coding |
+
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SanjanaChintawar&show_icons=true&theme=red&hide_border=true&bg_color=0D0D0D&title_color=E50914&icon_color=E50914&text_color=797979" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SanjanaChintawar&theme=red&hide_border=true&background=0D0D0D&ring=E50914&fire=E50914&currStreakLabel=E50914" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=SanjanaChintawar&show_icons=true&hide_border=true&bg_color=0E0E0E&title_color=E8303A&icon_color=C0392B&text_color=CCCCCC&ring_color=8B0000" height="160"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SanjanaChintawar&hide_border=true&background=0E0E0E&ring=C0392B&fire=E8303A&currStreakLabel=E8303A&sideLabels=CCCCCC&dates=888888&sideNums=FFFFFF" height="160"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjanaChintawar&layout=compact&hide_border=true&bg_color=0E0E0E&title_color=E8303A&text_color=CCCCCC&langs_count=8" height="160"/>
+
 </div>
+
+---
+
+### 🔗 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/SanjanaChintawar">
+    <img src="https://img.shields.io/badge/LinkedIn-0E1628?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=8B0000" />
+  </a>&nbsp;
+  <a href="mailto:youremail@example.com">
+    <img src="https://img.shields.io/badge/Email-0E1628?style=for-the-badge&logo=gmail&logoColor=white&labelColor=8B0000" />
+  </a>&nbsp;
+  <a href="https://github.com/SanjanaChintawar">
+    <img src="https://img.shields.io/badge/GitHub-0E1628?style=for-the-badge&logo=github&logoColor=white&labelColor=8B0000" />
+  </a>&nbsp;
+  <a href="#">
+    <img src="https://img.shields.io/badge/Portfolio-0E1628?style=for-the-badge&logo=vercel&logoColor=white&labelColor=8B0000" />
+  </a>
+</p>
 
 <br/>
 
 > [!IMPORTANT]
-> ### Recruiter / Employer?
-> [Download my resume](https://drive.google.com/file/d/1ZXEsIDY-vduXGlKE93MYU5EZbOwKHolz/view?usp=drive_link)
+> 📄 **Recruiter / Employer?** &nbsp; [**Download my Resume →**](https://drive.google.com/file/d/1ZXEsIDY-vduXGlKE93MYU5EZbOwKHolz/view?usp=drive_link)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:0D0D0D&height=120&section=footer"/>
+<br/>
 
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=SanjanaChintawar&label=Profile+Views&color=8B0000&style=flat-square" />
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C0392B,60:8B0000,100:0E1628&height=120&section=footer" width="100%"/>
 
